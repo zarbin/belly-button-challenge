@@ -4,14 +4,21 @@ Module 14 Challenge for UTA DataViz Bootcamp\
 
 # Summary
 
-### Metadata Info
+In this assignment, I built an interactive dashboard to explore Belly Button Biodiversity.  This website include analysis of 158 people's button button samples and catalogs the microbes that colonize their human navels.  Upon visiting the website the user can select an ID number to example the bacterial composition from the belly button data. 
 
-![image](https://user-images.githubusercontent.com/36682023/218290108-232f575b-c836-432a-a300-7c82eb35a31b.png)
 
-### Bar Graph
 
-![image](https://user-images.githubusercontent.com/36682023/218290126-68578c70-21a9-4b6f-9c7c-3e9c5e3e9acc.png)
+### Metadata Info Example
 
-### Bubble Chart
+![image](https://user-images.githubusercontent.com/36682023/218335479-3edc63b4-031a-409c-9a10-8ee1efd16939.png)
 
-![image](https://user-images.githubusercontent.com/36682023/218290134-f2278dc2-67e9-4457-b03b-d063eda3ec81.png)
+
+### Bar Graph Example
+
+![image](https://user-images.githubusercontent.com/36682023/218335484-7877a039-c407-43f7-9c5b-92f23bb039be.png)
+
+
+### Bubble Chart Example
+
+![image](https://user-images.githubusercontent.com/36682023/218335491-1cccfb9f-a39c-4454-892c-6c89fb39df11.png)
+
